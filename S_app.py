@@ -19,7 +19,7 @@ def load_config(file_path):
     with open(file_path, 'r') as file:
         config = json.load(file)
     return config
-config = load_config(r'Final_Check\data.json')
+config = load_config(r'data.json')
     
 # Constants
 IMG_HEIGHT = config["IMG_HEIGHT"]
