@@ -1,6 +1,6 @@
 {
-    "final_model_path" : "Final_Check\\mobilenet_bald_classifier_augmented1.h5",
-    "Excel_path":"Final_Check\\hairfall_problem3592.csv",
+    "final_model_path" : "mobilenet_bald_classifier_augmented1.h5",
+    "Excel_path":"hairfall_problem3592.csv",
     "IMG_HEIGHT" : 224,
     "IMG_WIDTH" : 224
 }
